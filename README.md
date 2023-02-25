@@ -22,31 +22,17 @@
 
   - :trophy: Здесь собрано мое портфолио на основе нескольких проектов, с которыми я работала в рамках программы "Инженер по тестированию ПО":
 
- #### 1. [Курсовой проект к модулю "Введение в тестирование](https://github.com/Alisa68/ManualTesting)
- #### 2.  Testability, автотесты, введение в ООП: объекты и методы:
-   [Кредитный калькулятор, который "считает как на сайте"](https://github.com/Alisa68/homejava_2.2.3/tree/master);
-   [Сервис, который рассчитывает Индекс Массы Тела (Body Mass Index)](https://github.com/Alisa68/homejava_2.2.2)
+ #### 1. [Курсовой проект к модулю "Введение в тестирование" (Ручное тестирование)](https://drive.google.com/drive/folders/1fVq9Rq9SWyzomtjbGT5j2iiZ_GvxN0lV?usp=sharing)
+ 
+ #### 2. [Проекты по автоматизации тестирования](https://github.com/viktoria23012007?tab=repositories)
    
-   #### 3. Система сборки Maven, управление зависимостями, автотесты на JUnit5:
-   [Создайте проект на базе Maven ](https://github.com/Alisa68/homejava_2.3.1_test/tree/master);
-   [Читаем логи](https://github.com/Alisa68/homejava_2_3_2_logi/tree/master)
+ #### 3. [Дипломный проект](https://github.com/viktoria23012007/ProjectDiplom)
    
-   #### 4. Интерфейсы для организации малой связности. Обобщенное программирование (Generics):
-   [Поиск билетов](https://github.com/Alisa68/Interfaces)
-   
-   #### 5. Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs:
-   [Авто-тесты, которые вы пишете, покрывали код на 100%.](https://github.com/Alisa68/CheckStyle/tree/master);
-   [Плагин ищет баги](https://github.com/Alisa68/JAVASpotbugs/tree/master)
-   
-   #### Сертификаты:
-   * [```Ручное тестирование вебприложений```](https://netology.ru/backend/api/user/programs/21738/pdf_certificate)
-   * [```Git — система контроля версий```](https://netology.ru/backend/api/user/programs/22877/pdf_certificate)
+ #### Сертификаты:
+   * [```Ручное тестирование вебприложений```](https://netology.ru/backend/api/user/programs/27470/pdf_certificate)
+   * [```Git — система контроля версий```](https://netology.ru/backend/api/user/programs/30035/pdf_certificate)
    * [```Java для тестировщиков```](https://netology.ru/backend/api/user/programs/22991/pdf_certificate)
    * [```Автоматизированное
 тестирование```](https://netology.ru/backend/api/user/programs/25529/pdf_certificate)
-
-
-
- 
   
  **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "viktoria.varenik@yandex.ru") : <viktoria.varenik@yandex.ru>** 
