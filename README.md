@@ -1,18 +1,26 @@
-### Портфолио тестировщика ПО - стажер
+## Портфолио Тестировщика ПО
+
 <h3>
+  
   Всем привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+
 </h3>
 
-![123(2)(1)](https://user-images.githubusercontent.com/93122395/165508567-806e7dd4-dfc0-46c3-ba76-c9ec15db8169.png)|   **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "lebedeva19682@yandex.ru") :<lebedeva19682@yandex.ru>**  -  **[```t.me```](https://t.me/chukocha68)**
-  |---------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-  
- #### :woman_technologist: Меня зовут Лебедева Елена. Вот мое [```резюме```](https://docs.google.com/document/d/1cuD5DIXPlElrwOGT8LC59wygpg2T8XTw5neLPbBGa18/edit). 
-  - :telescope: Последние пять лет до 2021 года я работала в ПАО "Ростелеком" в техническом блоке электромехаником связи.
-  - :woman_student: С сентября 2021 года студент курса "Тестировщик ПО" в [ООО "ЦПО Нетология-групп"](https://netology.ru/programs/qa).
+![image](https://user-images.githubusercontent.com/104196580/221373608-aeca9259-1036-4833-9fa9-7079f39851f9.png)
 
+**![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "viktoria.varenik@yandex.ru") : <viktoria.varenik@yandex.ru>** 
 
-  - :trophy: Здесь собрано мое портфолио на основе нескольких проектов, с которыми я работала в рамках курса "Тестировщиков ПО":
+[```Telegram```](https://t.me/VVarenik)
+
+  #### Мое имя Виктория Вареник. 
+ >
+ Вот мое [```резюме```](https://drive.google.com/file/d/1Yki-wpeS2a64_2BXwTPZfndlLC4vRDp7/view?usp=sharing). 
+ 
+ C 2019 года я руковожу проектами в разных сферах, в том числе в сфере IT.
+ 
+ С начала 2022 года являюсь студентом по программам профессиональной переподготовки "Инженер по тестированию ПО" и "Project Manager IT" в [ООО "Нетология"](https://netology.ru).
+
+  - :trophy: Здесь собрано мое портфолио на основе нескольких проектов, с которыми я работала в рамках программы "Инженер по тестированию ПО":
 
  #### 1. [Курсовой проект к модулю "Введение в тестирование](https://github.com/Alisa68/ManualTesting)
  #### 2.  Testability, автотесты, введение в ООП: объекты и методы:
@@ -41,5 +49,4 @@
 
  
   
- [```t.me```](https://t.me/chukocha68) / ![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "lebedeva19682@yandex.ru") :<lebedeva19682@yandex.ru>
-
+ **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "viktoria.varenik@yandex.ru") : <viktoria.varenik@yandex.ru>** 
