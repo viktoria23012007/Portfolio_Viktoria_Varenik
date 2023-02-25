@@ -6,9 +6,7 @@
 
 </h3>
 
-![image](https://user-images.githubusercontent.com/104196580/221373608-aeca9259-1036-4833-9fa9-7079f39851f9.png)
-
-**![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "viktoria.varenik@yandex.ru") : <viktoria.varenik@yandex.ru>** 
+![image](https://user-images.githubusercontent.com/104196580/221373608-aeca9259-1036-4833-9fa9-7079f39851f9.png) 
 
 [```Telegram```](https://t.me/VVarenik)
 
@@ -31,8 +29,8 @@
  #### Сертификаты:
    * [```Ручное тестирование вебприложений```](https://netology.ru/backend/api/user/programs/27470/pdf_certificate)
    * [```Git — система контроля версий```](https://netology.ru/backend/api/user/programs/30035/pdf_certificate)
-   * [```Java для тестировщиков```](https://netology.ru/backend/api/user/programs/22991/pdf_certificate)
+   * [```Java для тестировщиков```](https://netology.ru/backend/api/user/programs/30383/pdf_certificate)
    * [```Автоматизированное
-тестирование```](https://netology.ru/backend/api/user/programs/25529/pdf_certificate)
+тестирование```](https://netology.ru/backend/api/user/programs/30397/pdf_certificate)
   
  **![email](https://texterra.ru/bitrix/templates/texterra/img/image/mail-icon.svg "viktoria.varenik@yandex.ru") : <viktoria.varenik@yandex.ru>** 
