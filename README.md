@@ -12,7 +12,7 @@
 
   #### Мое имя Виктория Вареник. 
  >
- Вот мое [```резюме```]([https://drive.google.com/file/d/1FEO-BCO5pvv-NfR9Ns62K7AHv8mNrZC5/view?usp=sharing]
+ Вот мое [```резюме```]([https://drive.google.com/file/d/1FEO-BCO5pvv-NfR9Ns62K7AHv8mNrZC5/view?usp=sharing])
  
  C 2019 года я руковожу проектами в разных сферах, в том числе в сфере IT и сфере образования.
  
